@@ -1,0 +1,2 @@
+1- how to manage individual colors for each hue color in box plot
+2- what is facet wrap and facet grid in boxplot?
