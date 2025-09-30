@@ -47,7 +47,7 @@ arr5= np.array([[[0,1,2,3],[4,5,6,7]],[[0,1,2,3],[4,5,6,7]],[[0,1,2,3],[4,5,6,7]
 print(arr5)
 print(arr5.ndim)  #to find the number of dimensions
 print(arr5.size)  # to find num of elements
-print(arr5.shape)  # to find shape (dims,rows, cols)
+print(arr5.shape)  # to find shape (dims,rows,cols)
 
 
 #Reshape arrays 
